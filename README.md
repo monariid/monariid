@@ -1,5 +1,5 @@
- [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@9681195d-e71d-4876-91e0-eac3f613ac9f)
- 
+[![wakatime](https://wakatime.com/badge/user/018e80d9-ff21-4bcb-a917-82116d097171.svg)](https://wakatime.com/@018e80d9-ff21-4bcb-a917-82116d097171)
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/164006959?s=400&u=b5b8732af497305473cb475a938d753c4ac3fb6e&v=4" style="border-radius: 100%;" height="300" width="300" alt="la niina">
 </p>
